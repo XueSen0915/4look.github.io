@@ -10,3 +10,10 @@
   2019年11月23日开始学习一些简单的编程语言，python，C，javaSript,SQLBolt 。<br>
   同时考过明年的英语四级考试，随便学点日语，为后年去日本玩做准备。<br>
   一句勉励的话：“`书山有路勤为径，学海无涯乐做舟！`”
+  
+  如何成为一名道德黑客
+  ==
+  作者：埃里克·史蒂文·雷蒙德<br>
+  `转载的翻译地址`：https://translations.readthedocs.io/en/latest/hacker_howto.html<br>
+  文件内置文章原地址，无法进去的话，我也上传了一个HTML文件。
+  
