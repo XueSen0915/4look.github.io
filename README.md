@@ -14,6 +14,5 @@
   如何成为一名道德黑客
   ==
   作者：埃里克·史蒂文·雷蒙德<br>
-  `转载的翻译地址`：https://translations.readthedocs.io/en/latest/hacker_howto.html<br>
-  文件内置文章原地址，无法进去的话，我也上传了一个HTML文件。
-  
+  博客地址：http://catb.org/~esr/faqs/hacker-howto.html<br>
+  里面有非常丰富而有趣的东西！
